@@ -8,8 +8,8 @@ I am passionate about data and believe in AI's power to improve people's lives. 
 
 ### You can find my project and previous work here:
 
-how to reach me...Portofolio
+how to reach me... Portofolio
 
-Other Work....Data-Science-Python-Tasks-Projects
+Other Work.... Data-Science-Python-Tasks-Projects
 
 
