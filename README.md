@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**MohsenMostafa88/MohsenMostafa88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Mohsen Mostafa 
 
-Here are some ideas to get you started:
+I am a Data Scientist & researcher. My research focuses on developing real-time using tools Collecting data for A business Decession. I also worked as a information system management and IT Administrator for more than 14 years in the industry, and agriculture domain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about data and believe in AI's power to improve people's lives. I want to transfer my passion to others and my goals that represent help for people in business and humanity.
+
+### You can find my project and previous work here:
+
+how to reach me...https://github.com/MohsenMostafa88/Portofolio
+
+Other Work.... https://github.com/MohsenMostafa88/Data-Science-Python-Tasks-Projects
+
+
