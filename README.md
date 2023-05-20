@@ -8,15 +8,8 @@ I am passionate about data and believe in AI's power to improve people's lives. 
 
 ### You can find my project and previous work here:
 
-Here are some ideas to get you started:
+How to reach me...https://github.com/MohsenMostafa88/Portofolio
 
-- 🔭 I’m currently working on ...[Data](https://www.belco.com/)
-- 🌱 I’m currently learning ...New tools for data science
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... Data Projects
-- 📫 How to reach me: ...https://github.com/MohsenMostafa88/Portofolio
-- 😄 Pronouns: ...https://github.com/MohsenMostafa88/Data-Science-Python-Tasks-Projects
-- ⚡ Fun fact: ...
+My Work ... https://github.com/MohsenMostafa88/Data-Science-Python-Tasks-Projects
 -->
 
