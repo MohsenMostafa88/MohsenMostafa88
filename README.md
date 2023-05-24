@@ -10,6 +10,6 @@ I am passionate about data and believe in AI's power to improve people's lives. 
 
 [Portofolio](https://github.com/MohsenMostafa88/Portofolio)
 
-My Work ... https://github.com/MohsenMostafa88/Data-Science-Python-Tasks-Projects
+[My Work](https://github.com/MohsenMostafa88/Data-Science-Python-Tasks-Projects)
 -->
 
